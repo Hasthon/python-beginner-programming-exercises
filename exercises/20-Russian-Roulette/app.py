@@ -8,7 +8,10 @@ def spin_chamber():
 
 #  DON'T CHANGE THE CODE ABOVE
 def fire_gun():
-	# YOUR CODE HERE
+        if  random.randint == 3:
+            print("You are dead!")
+        else:
+            print("Keep playing!")
 
 
 
