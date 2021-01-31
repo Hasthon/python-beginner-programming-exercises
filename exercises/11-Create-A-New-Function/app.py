@@ -2,10 +2,12 @@
 import random
 
 def generate_random():
-  # CHANGE ONLY THIS LINE BELOW
-	random_number = random.randint(0,9)
-	return random_number
+    randomNumber = random.randint(0,9)
+    print(randomNumber)
+    return randomNumber
 
 
 
 print(generate_random())
+
+
